@@ -11,6 +11,11 @@ __pycache__/
 *.CIH
 *.jpeg
 
+# Irrelevant folders
+Export_Ridges/
+Pseudo*/
+2022_05_25*/
+
 # Distribution / packaging
 .Python
 build/
