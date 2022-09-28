@@ -12,3 +12,17 @@
   author = {Hyung-Kyu Kim},
   }
 ```
+
+# Implementation of an algorithm for detection of T-junctions in images
+
+```BibTex
+  @article{Buades2018Contours,
+      title   = {{Contours, Corners and T-Junctions Detection Algorithm}},
+      author  = {Buades, Antoni and Grompone von Gioi, Rafael and Navarro, Julia},
+      journal = {{Image Processing On Line}},
+      volume  = {8},
+      pages   = {24--36},
+      year    = {2018},
+      note    = {\url{https://doi.org/10.5201/ipol.2018.218}}
+  }
+```
